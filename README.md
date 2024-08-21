@@ -6,7 +6,7 @@ Data Professional Survey Breakdown with Power BI
 
 Project Overview
 
-This project involves creating a Power BI dashboard to visualize and analyze data from a survey conducted among data professionals. The dashboard provides insights into various aspects such as the number of survey respondents by country, their average salaries based on job roles, age distribution, work-life balance satisfaction, salary satisfaction, and more. The data was sourced from the GitHub account of AlexTheAnalyst.
+This project involves creating a Power BI dashboard to visualize and analyze data from a survey conducted among data professionals. The dashboard provides insights into various aspects such as the number of survey respondents by country, their average salaries based on job roles, age distribution, work-life balance satisfaction, salary satisfaction, and more. 
 
 Data Source
 The data is stored in an Excel file named:
